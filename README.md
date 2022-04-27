@@ -16,7 +16,7 @@ Mailchimp Open Commerce is made to work with almost all the email service out th
 2. Navigate to Integration and then to Transactional Email and hit the launch app button. You should be at `https://mandrillapp.com/` URL now.
 3. Navigate to Settings and hit the "+ New API Keys" to generate the new API Key.
 4. Verify you domain using the various options available at https://mandrillapp.com/settings/sending-domains
-5. In `reaction/.env` file add the `MAIL_URL=smtp://<USERNAME>:<PASSWORD>@mandrillapp.com` environment variable.
+5. In `reaction/.env` file add the `MAIL_URL=smtp://<ANY_USERNAME>:<KEY_GENERATED>@mandrillapp.com` environment variable.
 6. Login as admin and naigate to `Settings` > `Shop` > `Email`. Make sure the shop email is set up up.
 7. Run the following mutation for an existing user to verify the sending of email:
 
