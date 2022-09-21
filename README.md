@@ -1,3 +1,9 @@
+# This repository is deprecated
+
+This code is now located in our monorepo [here](https://github.com/reactioncommerce/reaction/tree/trunk/packages/api-plugin-email-smtp)
+
+
+
 # api-plugin-email-smtp
 
 [![npm (scoped)](https://img.shields.io/npm/v/@reactioncommerce/api-plugin-email-smtp.svg)](https://www.npmjs.com/package/@reactioncommerce/api-plugin-email-smtp)
